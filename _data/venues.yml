@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"EMNLP":
+  url: https://2026.emnlp.org/
+  color: "#b31b1b"
+"ICML":
+  url: https://icml.cc/
+  color: "#005f73"
+"COLM":
+  url: https://www.aiagentbehavior.com/
+  color: "#6a4c93"
+"NeurIPS":
+  url: https://sea-workshop.github.io/
+  color: "#8f2d56"
+"AAAI":
+  url: https://ai4research.github.io/
+  color: "#1d3557"
+"ICSE":
+  url: https://llm4code.github.io/2024/
+  color: "#2a9d8f"
+"AIMLSys":
+  url: https://www.aimlsystems.org/2024/
+  color: "#e76f51"
+"Amazon":
+  url: https://www.amazon.science/nova-ai-challenge
+  color: "#ff9900"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#555555"

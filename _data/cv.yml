@@ -2,96 +2,115 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Shubham Gandhi
+    - name: Position
+      value: Ph.D. student, Language Technologies Institute, Carnegie Mellon University
+    - name: Research Interests
+      value: LLM Agents, Efficiency and Failure Mitigation, Reliability and Security, Reasoning Alignment, AI for Code
+    - name: Email
+      value: srgandhi@andrew.cmu.edu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Language Technologies
+      institution: Carnegie Mellon University, Language Technologies Institute (School of Computer Science)
+      year: 2026 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Working with Prof. Carolyn Rosé and Prof. Michael Hilton.
+    - title: M.S. in Intelligent Information Systems
+      institution: Carnegie Mellon University, Language Technologies Institute (School of Computer Science)
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 4.03 / 4.0
+    - title: B.E. in Computer Science, Minor in Data Science
+      institution: Birla Institute of Technology and Science, Pilani (Goa Campus)
+      year: 2019 - 2023
+      description:
+        - GPA 8.99 / 10
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Carnegie Mellon University
+      year: 2025 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advised by Prof. Carolyn Rosé and Prof. Michael Hilton.
+        - Secure and useful code generation for the Amazon Nova AI Challenge. Utility-preserving reasoning defenses for code LLMs (Trusted AI 2025, finalist) and adversarial red-teaming of code agents (Trusted Software Agents 2026, team lead).
+    - title: Research Intern
+      institution: IBM Research
+      year: Summers 2025, 2026
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Mentors Dr. Jason Tsay, Dr. Kiran Kate, and Dr. Yara Rizk.
+        - Process supervision for long-horizon SWE agents. SWE-PRM for course-correcting agent trajectories at inference time (2025) and DRACO for fine-grained credit assignment with dynamic rubrics during agent training (2026).
+    - title: Research Fellow
+      institution: TCS Research
+      year: 2023 - 2024
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Mentors Dr. Manasi Patwardhan and Dr. Gautam Shroff.
+        - LLM multi-agent systems for research automation. ResearchCodeAgent for codifying research methodologies, BudgetMLAgent for cost-efficient ML automation, and low-resource COBOL-to-Java translation.
+    - title: Research Intern
+      institution: Microsoft Research India
+      year: 2022
+      description:
+        - Mentors Dr. Nagarajan Natarajan and Dr. Sriram Rajamani.
+        - StaticFixer, repairing information-flow vulnerabilities in JavaScript by combining CodeQL static analysis with neural baselines (Codex, CodeT5). Built the CodeInTheWild and PairedPrograms datasets.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2026
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Amazon Nova AI Challenge, Trusted Software Agents Track (Red Team). Led the CMU team. Awarded a $250K research grant and monthly $150K AWS compute support for adversarial evaluation of code agents.
+    - year: 2025
       items:
-        - Max Planck Medal
+        - Amazon Nova AI Challenge Finalist, Trusted AI Track. Top 4 defender teams globally, selected among 90+ teams. Awarded a $250K research grant for developing secure code LLM systems.
+    - year: 2022
+      items:
+        - Summer Internship Assistantship Award for Research, BITS Pilani. Among the top 5 of 5,000+ students awarded a grant for research on brain-inspired neural networks.
+    - year: 2019
+      items:
+        - Merit Scholarship, BITS Pilani. 40% tuition fee waiver awarded to the top 3 percentile of students.
 
-- title: Academic Interests
-  type: nested_list
+- title: Teaching
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Teaching Assistant, MCDS Capstone Planning Seminar (11-634)
+      institution: Carnegie Mellon University
+      year: Spring 2026
+    - title: Teaching Assistant, MCDS Capstone (11-632)
+      institution: Carnegie Mellon University
+      year: Fall 2025
+    - title: Teaching Assistant, MCDS Capstone Planning Seminar (11-634)
+      institution: Carnegie Mellon University
+      year: Spring 2025
+    - title: Teaching Assistant, Deep Learning (CS F425)
+      institution: BITS Pilani
+      year: Spring 2023
+    - title: Teaching Assistant, Introduction to Data Mining (WILP)
+      institution: BITS Pilani
+      year: Spring 2023
+    - title: Teaching Assistant, Computer Programming (CS F111)
+      institution: BITS Pilani
+      year: Summer 2022
+    - title: Workshop Instructor, Introduction to R
+      institution: BITS Pilani
+      year: 2021
 
-- title: Other Interests
+- title: Academic Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Organizer</b>, <a href="https://www.lti.cmu.edu/news-and-events/events/lti-srs-2026/index.html">LTI Student Research Symposium 2026</a>.
+    - <b>Reviewer</b>, ARR May 2026, EDM 2026, SEA Workshop at NeurIPS 2025, IKDD CODS 2025 Demo Track.
+
+- title: Technical Skills
+  type: list
+  contents:
+    - <b>Programming:</b> Python, C/C++, Java, JavaScript, Bash.
+    - <b>Frameworks and Infrastructure:</b> PyTorch, Hugging Face Transformers, vLLM, veRL, LlamaFactory, CodeQL, Slurm, Docker, AWS.
+
+- title: Relevant Coursework
+  type: list
+  contents:
+    - Reinforcement Learning, Neural Code Generation, Advanced Natural Language Processing, Question Answering with Large Language Models, Machine Learning, Deep Learning, Meta Learning.

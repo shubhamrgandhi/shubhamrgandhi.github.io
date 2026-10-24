@@ -3,9 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 2
+cv_pdf: Shubham_Gandhi_CV.pdf # you can also use external links here
+description: Last updated September 2026. Click the PDF icon for the full two-page CV.
 toc:
   sidebar: left
 ---
