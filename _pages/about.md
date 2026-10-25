@@ -40,7 +40,4 @@ My research asks how to make long-horizon coding agents **reliable, efficient, a
 * **Reliability and security of code generation.** I work on utility-preserving defenses for code LLMs, red-teaming of code agents, and detection and repair of security vulnerabilities, including as part of the CMU team in the [Amazon Nova AI Challenge](https://www.amazon.science/nova-ai-challenge) (Trusted AI '25 finalist, Trusted Software Agents '26 red team lead).<br>
 [Secure and Useful Models are Reasonable](https://www.amazon.science/nova-ai-challenge/proceedings) (Amazon Nova '25) · ABSENTIA (under review) · [StaticFixer](https://arxiv.org/abs/2307.12465) (preprint)
 
-* **LLM multi-agent systems for research and code automation.** Earlier work on multi-agent systems that codify research methodologies, automate ML tasks under a budget, and translate low-resource legacy code.<br>
-[ResearchCodeAgent](https://openreview.net/pdf?id=XCFHgkaFJZ) (AI4Research @ AAAI'25) · [BudgetMLAgent](https://dl.acm.org/doi/full/10.1145/3703412.3703416) (AI-ML Systems'24) · [COBOL-to-Java](https://dl.acm.org/doi/pdf/10.1145/3643795.3648388) (LLM4Code @ ICSE'24)
-
 I also serve as a Teaching Assistant for the MCDS Capstone courses at CMU and reviewed for ARR, EDM, and SEA @ NeurIPS.
