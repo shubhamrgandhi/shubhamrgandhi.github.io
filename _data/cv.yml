@@ -36,8 +36,9 @@
       institution: Carnegie Mellon University
       year: 2025 - now
       description:
-        - Project advisors Prof. Carolyn Rosé and Prof. Michael Hilton.
-        - Secure and useful code generation for the Amazon Nova AI Challenge. Utility-preserving reasoning defenses for code LLMs (Trusted AI 2025, finalist) and adversarial red-teaming of code agents (Trusted Software Agents 2026, team lead).
+        - Secure and useful code generation for the Amazon Nova AI Challenge, across its two iterations.
+        - 2026, Trusted Software Agents track. Leading the CMU red team on adversarial red-teaming of code agents.
+        - 2025, Trusted AI track. Team member working on utility-preserving reasoning defenses for code LLMs (finalist). Faculty advisors Prof. Carolyn Rosé and Prof. Michael Hilton.
     - title: Research Intern
       institution: IBM Research
       year: Summers 2025, 2026
