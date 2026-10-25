@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a first-year Ph.D. student at the [Language Technologies Institute](https://lti.cs.cmu.edu/) of Carnegie Mellon University, where I am advised by [Carolyn Rosé](https://cp3a.github.io/) and work on **LLM agents for software engineering**. I completed my M.S. in Intelligent Information Systems at CMU in December 2025, and my B.E. in Computer Science at BITS Pilani, Goa.
+I am a first-year Ph.D. student at the [Language Technologies Institute](https://lti.cs.cmu.edu/) of Carnegie Mellon University, where I am advised by [Carolyn Rosé](https://cp3a.github.io/) and work on **efficiency and reliability in LLM agents**. I completed my M.S. in Intelligent Information Systems at CMU in December 2025, and my B.E. in Computer Science at BITS Pilani, Goa.
 
 I have spent two summers at [IBM Research](https://research.ibm.com/) working with [Jason Tsay](https://www.jsntsay.com/), [Kiran Kate](https://research.ibm.com/people/kiran-kate), and [Yara Rizk](https://research.ibm.com/people/yara-rizk) on process supervision for SWE agents. Before CMU, I was a Research Fellow at [TCS Research](https://www.tcs.com/what-we-do/research) with Manasi Patwardhan and Gautam Shroff, and a Research Intern at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) with [Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) and [Sriram Rajamani](https://www.microsoft.com/en-us/research/people/sriram/).
 
