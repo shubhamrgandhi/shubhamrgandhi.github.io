@@ -44,7 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-evaluating-code-slop-in-long-horizon-coding-agents-is-accepted-at-the-workshop-on-agent-behavior-at-colm-2026",
           title: 'Evaluating Code Slop in Long-Horizon Coding Agents is accepted at the Workshop on...',
           description: "",
-          section: "News",},{id: "news-steer-don-t-solve-on-training-small-critic-models-for-large-code-agents-is-accepted-to-emnlp-2026",
+          section: "News",},{id: "news-steer-don-t-solve-on-training-small-critic-models-for-large-code-agents-is-accepted-to-emnlp-2026-as-an-oral-presentation",
           title: 'Steer, Don’t Solve, on training small critic models for large code agents, is...',
           description: "",
           section: "News",},{id: "news-new-preprint-from-my-ibm-research-internship-draco-fine-grained-credit-assignment-with-dynamic-rubrics-for-long-horizon-agent-training",
