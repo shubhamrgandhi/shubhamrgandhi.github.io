@@ -35,7 +35,7 @@ My research asks how to make long-horizon coding agents **reliable and secure**:
 [SWE-PRM](https://research.ibm.com/publications/when-agents-go-astray-course-correcting-swe-agents-with-prms) (SEA @ NeurIPS'25) · [DRACO](https://arxiv.org/abs/2609.04094) (preprint) · [Hybrid-Gym](https://openreview.net/pdf?id=2TVSJxxz9u) (ICML'26)
 
 * **Efficiency and failure mitigation.** I design lightweight critics and strong-weak collaboration schemes that steer large code agents at a fraction of the cost, and I measure wasted effort such as code slop in agent-generated patches.<br>
-[Steer, Don't Solve](https://arxiv.org/abs/2606.21811) (EMNLP'26) · [Strong-Weak Collaboration](https://aclanthology.org/2025.emnlp-main.1043/) (EMNLP'25) · [Code Slop](https://openreview.net/pdf/dc1c6406b6734eaf2f5cef6166f50cc863e6f9be.pdf) (WAB @ COLM'26)
+[Steer, Don't Solve](https://arxiv.org/abs/2606.21811) (EMNLP'26 Oral) · [Strong-Weak Collaboration](https://aclanthology.org/2025.emnlp-main.1043/) (EMNLP'25) · [Code Slop](https://openreview.net/pdf/dc1c6406b6734eaf2f5cef6166f50cc863e6f9be.pdf) (WAB @ COLM'26)
 
 * **Reliability and security of code generation.** I work on utility-preserving defenses for code LLMs, red-teaming of code agents, and detection and repair of security vulnerabilities, including as part of the CMU team in the [Amazon Nova AI Challenge](https://www.amazon.science/nova-ai-challenge) (Trusted AI '25 finalist, Trusted Software Agents '26 red team lead).<br>
 [Secure and Useful Models are Reasonable](https://www.amazon.science/nova-ai-challenge/proceedings) (Amazon Nova '25) · ABSENTIA (under review) · [StaticFixer](https://arxiv.org/abs/2307.12465) (preprint)
