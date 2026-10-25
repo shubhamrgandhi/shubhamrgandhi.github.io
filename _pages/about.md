@@ -27,7 +27,7 @@ latest_posts:
 
 I am a first-year Ph.D. student at the [Language Technologies Institute](https://lti.cs.cmu.edu/) of Carnegie Mellon University, where I am advised by [Carolyn Rosé](https://cp3a.github.io/) and work on **efficiency and reliability in LLM agents**. I completed my M.S. in Intelligent Information Systems at CMU in December 2025, and my B.E. in Computer Science at BITS Pilani, Goa.
 
-I have spent two summers at [IBM Research](https://research.ibm.com/) working with [Jason Tsay](https://www.jsntsay.com/), [Kiran Kate](https://research.ibm.com/people/kiran-kate), and [Yara Rizk](https://research.ibm.com/people/yara-rizk) on process supervision for SWE agents. Before CMU, I was a Research Fellow at [TCS Research](https://www.tcs.com/what-we-do/research) with Manasi Patwardhan and Gautam Shroff, and a Research Intern at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) with [Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) and [Sriram Rajamani](https://www.microsoft.com/en-us/research/people/sriram/).
+I have spent two summers at [IBM Research](https://research.ibm.com/) working on process supervision for SWE agents. Before CMU, I was a Research Fellow at [TCS Research](https://www.tcs.com/what-we-do/research) and a Research Intern at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
 
 My research asks how to make long-horizon coding agents **reliable and secure**:
 
@@ -39,5 +39,3 @@ My research asks how to make long-horizon coding agents **reliable and secure**:
 
 * **Reliability and security of code generation.** I work on utility-preserving defenses for code LLMs, red-teaming of code agents, and detection and repair of security vulnerabilities, including as part of the CMU team in the [Amazon Nova AI Challenge](https://www.amazon.science/nova-ai-challenge) (Trusted AI '25 finalist, Trusted Software Agents '26 red team lead).<br>
 [Secure and Useful Models are Reasonable](https://www.amazon.science/nova-ai-challenge/proceedings) (Amazon Nova '25) · ABSENTIA (under review) · [StaticFixer](https://arxiv.org/abs/2307.12465) (preprint)
-
-I also serve as a Teaching Assistant for the MCDS Capstone courses at CMU and reviewed for ARR, EDM, and SEA @ NeurIPS.
