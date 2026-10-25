@@ -4,16 +4,16 @@
 "ICML":
   url: https://icml.cc/
   color: "#005f73"
-"COLM":
+"COLM WAB":
   url: https://www.aiagentbehavior.com/
   color: "#6a4c93"
-"NeurIPS":
+"NeurIPS SEA":
   url: https://sea-workshop.github.io/
   color: "#8f2d56"
-"AAAI":
+"AAAI AI4Research":
   url: https://ai4research.github.io/
   color: "#1d3557"
-"ICSE":
+"ICSE LLM4Code":
   url: https://llm4code.github.io/2024/
   color: "#2a9d8f"
 "AIMLSys":
